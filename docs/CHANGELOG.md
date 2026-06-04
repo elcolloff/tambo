@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.34.0](https://github.com/tambo-ai/tambo/compare/docs-v1.33.2...docs-v1.34.0) (2026-06-04)
+
+
+### Features
+
+* **web:** migrate to Next.js 16 and React 19 ([#2900](https://github.com/tambo-ai/tambo/issues/2900)) ([5a654ef](https://github.com/tambo-ai/tambo/commit/5a654efe235d6f9a3711282c503c63a47b56eb22))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/react bumped from * to 1.3.0
+    * @tambo-ai/react-ui-base bumped from * to 0.1.11
+
 ## [1.33.2](https://github.com/tambo-ai/tambo/compare/docs-v1.33.1...docs-v1.33.2) (2026-05-29)
 
 
